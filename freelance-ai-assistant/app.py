@@ -8,7 +8,7 @@ import os
 import sys
 from datetime import datetime
 import json
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import re
 
 # Fix pour l'encodage UTF-8 sur Windows
