@@ -25,8 +25,8 @@ class FreelanceCrew:
         load_dotenv()
 
         # Configuration des clés API
-        os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY', '')
-        os.environ['SERPER_API_KEY'] = os.getenv('SERPER_API_KEY', '')
+        os.environ['OPENAI_API_KEY'] = "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"
+        os.environ['SERPER_API_KEY'] = "bc1bd438793d6bb90a2fe3cfdb273f5740116b12"
 
         # Initialisation des outils
         try:
